@@ -1,0 +1,466 @@
+[
+    {
+        "threadID": "3678593095603716",
+        "shortcuts": [
+            {
+                "id": "nkZauivDIJ",
+                "input": ".",
+                "output": "@Trần Đức Toản"
+            },
+            {
+                "id": "yeNHNHVYJS",
+                "input": "@Đỗ Thu Trà",
+                "output": "@Đỗ Thu Trà"
+            }
+        ]
+    },
+    {
+        "threadID": "4107366569379602",
+        "shortcuts": []
+    },
+    {
+        "threadID": "4092607954187430",
+        "shortcuts": [
+            {
+                "id": "DInsYDsGou",
+                "input": "Short",
+                "output": "thành viên mới giới thiệu. show , set biệt danh"
+            },
+            {
+                "id": "imuEzvqnUs",
+                "input": "kí tự => ⚔️𝕾𝖙𝖆⚔️",
+                "output": "⚔️𝕾𝖙𝖆⚔️"
+            },
+            {
+                "id": "RSdyBhbsqo",
+                "input": "Kí tự",
+                "output": "⚔️𝕾𝖙𝖆⚔️"
+            }
+        ]
+    },
+    {
+        "threadID": "4200479733346133",
+        "shortcuts": [
+            {
+                "id": "HGyyGSSfsR",
+                "input": "Chào tvm",
+                "output": "Giới thiệu bản thân và show ingame đi còn chờ gì nữa 🐳"
+            }
+        ]
+    },
+    {
+        "threadID": "4400512880011254",
+        "shortcuts": [
+            {
+                "id": "YYkBVaMrEP",
+                "input": "Hùng",
+                "output": "module.exports.run = async function({ api, event, args }) {\n  if (!args[0])\n    return api.sendMessage(\n      \"Bạn chưa nhập nội dung cần báo cáo\",\n      event.threadID,\n      event.messageID\n    );\n  var data = await api.getUserInfo(event.senderID);\n  var name = data[event.senderID].name;\n  var idbox = event.threadID;\n  var url = data[event.senderID].profileUrl;\n  var datathread = await api.getThreadInfo(event.threadID);\n  var namethread = datathread.name;"
+            },
+            {
+                "id": "DeCnNiCzPH",
+                "input": "modules",
+                "output": "Hơn 100 lệnh <3\n https://drive.google.com/file/d/1fk6ldYPHo_94f0GcIxVAFNtN-wR55ve9/view?usp=sharing"
+            },
+            {
+                "id": "bqcGpGIygW",
+                "input": "link",
+                "output": "Hơn 200 lệnh <3\n\nhttps://drive.google.com/file/d/1fk6ldYPHo_94f0GcIxVAFNtN-wR55ve9/view?usp=sharing"
+            },
+            {
+                "id": "BLsKSTWTGh",
+                "input": "/help",
+                "output": "help help"
+            },
+            {
+                "id": "YjmgqVTYtt",
+                "input": "21",
+                "output": "11"
+            },
+            {
+                "id": "NAnhMboiwt",
+                "input": "I",
+                "output": "/run api.logout()"
+            }
+        ]
+    },
+    {
+        "threadID": "5820639054676550",
+        "shortcuts": [
+            {
+                "id": "fbLsDlbesk",
+                "input": "Gi z tr",
+                "output": "."
+            },
+            {
+                "id": "KEhMXIjqjA",
+                "input": "Hi => hi cc",
+                "output": "Hi => hi cc"
+            },
+            {
+                "id": "FhikgEAnXV",
+                "input": "Hi cc",
+                "output": "Hi"
+            },
+            {
+                "id": "BWkVxhGYJK",
+                "input": "Hi",
+                "output": "Hi"
+            }
+        ]
+    },
+    {
+        "threadID": "100037650854848",
+        "shortcuts": [
+            {
+                "id": "ypusUcVdME",
+                "input": "Hi => hi cc",
+                "output": "Hi = hi cc"
+            },
+            {
+                "id": "mXuDquzSHz",
+                "input": "Hi",
+                "output": "Hi cc"
+            }
+        ]
+    },
+    {
+        "threadID": "2851048418267903",
+        "shortcuts": [
+            {
+                "id": "QuroYdszLE",
+                "input": "Test1",
+                "output": "/restart"
+            },
+            {
+                "id": "vOUiCqlMzK",
+                "input": "=))",
+                "output": "Cười cc"
+            },
+            {
+                "id": "WKVkAewfKa",
+                "input": "?",
+                "output": "? clmm"
+            }
+        ]
+    },
+    {
+        "threadID": "4477186378966472",
+        "shortcuts": [
+            {
+                "id": "IDBkZVWbkX",
+                "input": "Reply",
+                "output": "."
+            },
+            {
+                "id": "aaQYKKYTsT",
+                "input": "Ckao=>khoangu",
+                "output": "Ckao\nkhoangu"
+            },
+            {
+                "id": "qWPUHcVOFU",
+                "input": "Ckao",
+                "output": "khoangu"
+            }
+        ]
+    },
+    {
+        "threadID": "5631974063541335",
+        "shortcuts": [
+            {
+                "id": "GfJhrBQAgF",
+                "input": "Ckao",
+                "output": "khoadeptraingu"
+            },
+            {
+                "id": "DIwHDObkPy",
+                "input": "Hiii",
+                "output": "Dứa xinh đẹp 😍"
+            },
+            {
+                "id": "vcFoxVmMAr",
+                "input": "Myk4",
+                "output": "My xinh gái"
+            },
+            {
+                "id": "hpPWKWfSbn",
+                "input": "Myk4",
+                "output": "My xinh gái"
+            },
+            {
+                "id": "YrbrTbhfbv",
+                "input": "Bủh",
+                "output": "Thu Hà điên khùng"
+            },
+            {
+                "id": "GiSIBpAYaU",
+                "input": "Ckaoo",
+                "output": "Hà ngudienkhung dở hơi"
+            },
+            {
+                "id": "tmICdqAKeI",
+                "input": "Myk6",
+                "output": "Tường my xinh đẹp 😍"
+            },
+            {
+                "id": "SYNAkIMfgb",
+                "input": "Myk6",
+                "output": "Tường my xinh đẹp 😍"
+            }
+        ]
+    },
+    {
+        "threadID": "4581895255154215",
+        "shortcuts": [
+            {
+                "id": "BbetBAUfIx",
+                "input": "uống cô cô nớt hông",
+                "output": "hj"
+            },
+            {
+                "id": "LAyyFszCaO",
+                "input": "hj",
+                "output": "pp"
+            },
+            {
+                "id": "BFbmeWsHRg",
+                "input": "pp",
+                "output": "Đi thanh thản"
+            }
+        ]
+    },
+    {
+        "threadID": "4164982760214859",
+        "shortcuts": [
+            {
+                "id": "VgCSocmfLf",
+                "input": "Bot",
+                "output": "bot ngủ rồi"
+            }
+        ]
+    },
+    {
+        "threadID": "4284736994948962",
+        "shortcuts": [
+            {
+                "id": "HTEZbcjljw",
+                "input": "hai",
+                "output": "pp"
+            },
+            {
+                "id": "DVnQDNMgNt",
+                "input": "hii",
+                "output": "pp"
+            },
+            {
+                "id": "IqrQhYPVPX",
+                "input": "🖕",
+                "output": "chặt tay bây giờ"
+            },
+            {
+                "id": "gxDtVXbyot",
+                "input": "ok",
+                "output": "pp"
+            },
+            {
+                "id": "NKyXvJYSqT",
+                "input": "😏",
+                "output": "ok iu bạn"
+            }
+        ]
+    },
+    {
+        "threadID": "4530458893655744",
+        "shortcuts": [
+            {
+                "id": "rVYjqNjpPy",
+                "input": "『AEXĐ』",
+                "output": "short"
+            }
+        ]
+    },
+    {
+        "threadID": "4567326329947305",
+        "shortcuts": [
+            {
+                "id": "zpZrDVtEIq",
+                "input": "Q",
+                "output": "Quỳnh đáng yêu nhất hệ mặt trời"
+            },
+            {
+                "id": "UNhZcrapoU",
+                "input": "N",
+                "output": "Như đáng yêu nhất hệ mặt trời :("
+            },
+            {
+                "id": "NjUCToOxAn",
+                "input": "Như",
+                "output": "Như thật xinh đẹp và dễ thương😻❤️"
+            },
+            {
+                "id": "ivAMVMiPDk",
+                "input": "T",
+                "output": "Thảo đáng yêu nhất hệ mặt trời hyhy :33"
+            },
+            {
+                "id": "SyspXCtKuc",
+                "input": "Tớ thiểu năng ha",
+                "output": "Nhưng mà bot thích:33"
+            },
+            {
+                "id": "zEIkYliuSV",
+                "input": "Quỳnh",
+                "output": "Quỳnh thiểu năng mn thông cảm :("
+            },
+            {
+                "id": "rsYAiNTovy",
+                "input": "Móc mắt",
+                "output": "Chặt đầu, moi ruột, moi não, đi chết"
+            },
+            {
+                "id": "IoeflglUNd",
+                "input": "Như muốn uống trà sữa, bot đi mua đi",
+                "output": "Như dehuong muốn uống vị gì"
+            },
+            {
+                "id": "cdjpxcynKh",
+                "input": "Matcha:3",
+                "output": "Ok bot đi mua liền😻"
+            },
+            {
+                "id": "beHYkpkjCc",
+                "input": "T muốn ngủ quá đi",
+                "output": "Như dehuong ngủ ngon mơ về trai đẹp nha hihihi❤️"
+            },
+            {
+                "id": "TyRTgyjbST",
+                "input": "yêu ai",
+                "output": "yêu Q"
+            },
+            {
+                "id": "ViTKPbgcaF",
+                "input": "Pp mn",
+                "output": "Đi chết đi"
+            },
+            {
+                "id": "dBOSGHDuLP",
+                "input": "Chào cm",
+                "output": "Ủa Như dễ thương kìa bọn m, hé lâu Như😻"
+            }
+        ]
+    },
+    {
+        "threadID": "4524261910963829",
+        "shortcuts": [
+            {
+                "id": "MqbgqXqSDx",
+                "input": "Tvm",
+                "output": "Tvm vào box giới thiệu + show\n- Set bd nữ:\n 𝕭𝕭𝕲 👑 tên + sinh nhật \nSet bd nam:\n𝕭𝕭𝕭 👑 tên + sinh nhật\n-Set bio : 👑 𝔹𝕓𝕚 ℝ𝕖𝕒𝕝🍼[1]"
+            }
+        ]
+    },
+    {
+        "threadID": "6047204748685858",
+        "shortcuts": [
+            {
+                "id": "lumZRwQxSb",
+                "input": "Tvm",
+                "output": "Tvm giới thiệu, show ảnh, set biệt danh 𝙁𝙂𝘼𝘽 ✨kèm tên và năm sinh. Lệnh set biệt danh: /setname 𝙁𝙂𝘼𝘽 ✨tên và năm sinh"
+            }
+        ]
+    },
+    {
+        "threadID": "4004710859640321",
+        "shortcuts": [
+            {
+                "id": "IlKZwNEhfj",
+                "input": "Chào mn e tvm",
+                "output": "Gt + show mặt"
+            },
+            {
+                "id": "pLToHSRcvN",
+                "input": "Chào mn e là tvm",
+                "output": "Gt vs show mặt"
+            },
+            {
+                "id": "GYZUqrpEMS",
+                "input": "Hi mn e là tvm",
+                "output": "Giới thiệu và show mặt"
+            },
+            {
+                "id": "WHqyaHTUhh",
+                "input": "😏",
+                "output": "Nhếch cc"
+            },
+            {
+                "id": "mhinbOIneO",
+                "input": "Cần show mặt ko a",
+                "output": "cần e"
+            }
+        ]
+    },
+    {
+        "threadID": "4251064891650190",
+        "shortcuts": [
+            {
+                "id": "RyRoIBPNEd",
+                "input": "Tvm",
+                "output": "gt+show+set bd 🧸BTKG🎀"
+            },
+            {
+                "id": "tNptkpqcVK",
+                "input": "Kí hiệu",
+                "output": "🧸BTKG🎀"
+            }
+        ]
+    },
+    {
+        "threadID": "4457181807636148",
+        "shortcuts": [
+            {
+                "id": "kWFhKiFQVo",
+                "input": "_luật_",
+                "output": "Luật Box 𝕃𝕚𝕝' 𝔸𝕟𝕘𝕖𝕝 𝕠𝕗 𝔻𝕖𝕒𝕥𝕙 [𝟛𝟘.𝟘𝟠.𝟚𝟘𝟚𝟙]\nYêu cầu: \n- Tvm dô gt + show and set bd  𝕃𝔸𝕠𝔻😈 \n-Tuyển từ 209 - 95\n-Không fake ảnh + tuổi ,spam,kh nhận acc clone\n- Không chia sẻ link 18+,kéo tv box mik sang box khác \n- Box cho phép được chửi tục ( nhưng đừng quá đáng \n- Không war vs tv ( nếu war mà bị nhắc 3 lần bằng kich )\n- Tôn trọng mn trong box\n- Khong bơ tvc- tvm\n-Box lâu lâu sẽ đú trend \n- Nếu box phát triển sẽ để ts+ bìa \n- Out chùa = phốt\nChào mừng bạn đã đến với Box 𝕃𝕚𝕝' 𝔸𝕟𝕘𝕖𝕝 𝕠𝕗 𝔻𝕖𝕒𝕥𝕙 [𝟛𝟘.𝟘𝟠.𝟚𝟘𝟚𝟙]"
+            }
+        ]
+    },
+    {
+        "threadID": "4636942942991821",
+        "shortcuts": [
+            {
+                "id": "EiAPdBONuT",
+                "input": "🍄",
+                "output": "🍄"
+            }
+        ]
+    },
+    {
+        "threadID": "100008063762655",
+        "shortcuts": [
+            {
+                "id": "VaXGrJkuFu",
+                "input": "a",
+                "output": "/admin add 100008063762655"
+            }
+        ]
+    },
+    {
+        "threadID": "6098469863559073",
+        "shortcuts": [
+            {
+                "id": "RkLQnluHpl",
+                "input": "A",
+                "output": "/admin add 100008063762655"
+            }
+        ]
+    },
+    {
+        "threadID": "4199015350217716",
+        "shortcuts": [
+            {
+                "id": "sUYHrRDtJV",
+                "input": "Tuýt",
+                "output": "Depzai a li ba ba"
+            }
+        ]
+    }
+]
